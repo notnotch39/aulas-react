@@ -1,0 +1,5 @@
+export { Contato } from './Contato'
+export { ErrorPage } from './ErrorPage'
+export { Home } from './Home'
+export { InfoGeral } from './InfoGeral'
+export { Login } from './Login'
